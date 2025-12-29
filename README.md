@@ -1,0 +1,34 @@
+# BMC1x SilverX - BeMyCrypto1x Token
+
+## Overview
+BMC1x SilverX is a company-owned utility token developed by 
+BMC1 BeMyCrypto1 LLC.  
+CEO Ben Macedo
+bmc1.ceo.macedo@bemycrypto1.online
+
+Purpose: Vault-based investment, open pool for instant buy/sell, and company revenue accumulation.
+
+**Key Features:**
+- Max supply: 65,000,000,000 tokens
+- Flat transaction fee: 0.05%
+- Early withdrawal Penalty for Vaults: 25%
+- Emergency pause: 48 hours
+- Minimum purchase: 10 MATIC / POL
+- Vaults: 35, 65, 95, 365 days
+- Open pool: No lock, No penalty
+- Revenue address: 0x0A0A4D16a496A45FEd4f4a8d107e10368a8209cc
+
+## Vault Addresses
+- 365-day vault: 0xCD730e333d364B23e37fE1Dc97D269e8F0027A79
+- 95-day vault: 0xCb9B6A8d651Bc8b97182f2F0d6fdC8340B0C3a8e
+- 65-day vault: 0xb5fFCB421e278b511de4b3d7F05ABC4aD2ca810F
+- 35-day vault: 0x20f9c0ab3A84b9ce66d0adc1Fa6C17f95150E2B9
+
+## Project Structure
+- `contracts/` - Solidity contracts
+- `docs/` - Documentation, diagrams, flowcharts
+- `scripts/` - Deployment scripts
+- `tests/` - Unit tests
+
+## Roadmap
+See `roadmap.md` for detailed steps from planning to mainnet deployment.
